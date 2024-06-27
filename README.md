@@ -1,6 +1,6 @@
 # Python Coding Challenges
 
-## Trying to Develop my skills in Python, with various challenges set or found online.
+## Trying to Develop my skills in Python, with various challenges set or, found online.
 
 Child Directories will be set up for the appropriate README.md files. Approach will be through TDD and Tidy First solutions. This is the first README.md I've written, tips come from the below link. 
 
